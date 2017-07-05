@@ -1,0 +1,10 @@
+google.com  1340056770
+facebook.com    1800
+microsoft.com   2
+ebay.com    8200
+spring.io   1089080
+oracle.com   200
+javalobby.com   2000
+twitter.com   2450000
+cnn.com   200
+yahoo.com   50344
