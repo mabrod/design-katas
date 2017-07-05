@@ -1,6 +1,5 @@
-## CI Build
-[![Build Status](https://travis-ci.org/mabrod/https://github.com/mabrod/design-katas.svg?branch=master)](https://travis-ci.org/mabrod/https://github.com/mabrod/design-katas)
-I use Travis CI to run CI build pipeline: https://travis-ci.org/
+## Travis CI Build
+[![Build Status](https://travis-ci.org/mabrod/design-katas.svg?branch=master)](https://travis-ci.org/mabrod/design-katas)
 
 ## Chain of Responsibility Pattern
 
